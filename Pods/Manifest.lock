@@ -1,0 +1,24 @@
+PODS:
+  - CocoaChainKit (0.6.3)
+  - SnapKit (4.0.1)
+  - Then (2.4.0)
+
+DEPENDENCIES:
+  - CocoaChainKit
+  - SnapKit
+  - Then
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaChainKit
+    - SnapKit
+    - Then
+
+SPEC CHECKSUMS:
+  CocoaChainKit: 3cf4974c1d0f5adee412fba8a6145ca2592b68b9
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  Then: 71866660c7af35a7343831f7668e7cd2b62ee0f2
+
+PODFILE CHECKSUM: f55f9558137081afeafeae3723fbdd919d37b83d
+
+COCOAPODS: 1.6.0.beta.1
