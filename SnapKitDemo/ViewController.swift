@@ -88,7 +88,7 @@ class ViewController: UIViewController {
         }
     }
 
-    //MARK: - 键盘即将出现
+    //MARK: - 键盘即将消失
     @objc func keyboardWillHide(notification:Notification){
          weak var weakSelf = self //弱引用
         let kbInfo = notification.userInfo
